@@ -1,0 +1,2 @@
+H:\практические (программирование)\5практическая\24\bin\Debug\24.exe.config
+H:\практические (программирование)\5практическая\24\obj\Debug\24.csprojResolveAssemblyReference.cache
