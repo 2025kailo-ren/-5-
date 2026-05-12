@@ -1,0 +1,2 @@
+H:\практические (программирование)\5практическая\10\bin\Debug\10.exe.config
+H:\практические (программирование)\5практическая\10\obj\Debug\10.csprojResolveAssemblyReference.cache
